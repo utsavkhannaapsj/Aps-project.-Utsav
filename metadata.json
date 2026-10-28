@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity 3D",
+  "description": "High-octane 3D racing game featuring intelligent AI opponents, dynamic track obstacles, precision stopwatch timing, and an end-of-match podium leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
